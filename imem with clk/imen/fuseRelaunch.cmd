@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "C:/Users/Intel Core i3/Desktop/UNI/6 SEMESTRE/ARQUITECTURA DE COMPUTADORES/instruction memory/imen/TB_imen_con_reloj_isim_beh.exe" -prj "C:/Users/Intel Core i3/Desktop/UNI/6 SEMESTRE/ARQUITECTURA DE COMPUTADORES/instruction memory/imen/TB_imen_con_reloj_beh.prj" "work.TB_imen_con_reloj" 

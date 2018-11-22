@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Intel Core i3/Desktop/UNI/6 SEMESTRE/ARQUITECTURA DE COMPUTADORES/instruction memory/imen/imen_con_reloj.xst" -ofn "C:/Users/Intel Core i3/Desktop/UNI/6 SEMESTRE/ARQUITECTURA DE COMPUTADORES/instruction memory/imen/imen_con_reloj.syr" 

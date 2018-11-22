@@ -1,0 +1,2 @@
+vhdl work "imen_con_reloj.vhd"
+vhdl work "TB_imen_con_reloj.vhd"

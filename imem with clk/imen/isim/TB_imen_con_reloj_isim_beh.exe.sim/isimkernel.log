@@ -1,0 +1,28 @@
+Command line:
+   TB_imen_con_reloj_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  63655
+
+Thu Nov 22 15:44:20 2018
+
+
+ Elaboration Time: 0.15625 sec
+
+ Current Memory Usage: 416.608 Meg
+
+ Total Signals          : 7
+ Total Nets             : 32865
+ Total Signal Drivers   : 3
+ Total Blocks           : 6
+ Total Primitive Blocks : 5
+ Total Processes        : 3
+ Total Traceable Variables  : 12
+ Total Scalar Nets and Variables : 33252
+
+ Total Simulation Time: 0.46875 sec
+
+ Current Memory Usage: 731.705 Meg
+
+Thu Nov 22 15:45:46 2018
+
